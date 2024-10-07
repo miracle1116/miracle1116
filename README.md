@@ -21,10 +21,10 @@ I am a software engineer with a passion for developing innovative and scalable s
 <li>👯 I’m looking to collaborate on open-source projects and global AIGC product launches.</li>
 
 ### 🔧 Technologies & Tools
-Languages: Java, JavaScript, SQL
-Frameworks: Spring Boot, Hibernate, JUnit
-Databases: MySQL, PostgreSQL, MongoDB
-Others: Microservices, Kafka
+<li>Languages: Java, JavaScript, SQL </li>
+<li>Frameworks: Spring Boot, Hibernate, JUnit </li>
+<li>Databases: MySQL, PostgreSQL, MongoDB </li>
+<li>Others: Microservices, Kafka
 
 ###📫 How to Reach Me
 Email: yiquan1116@gmail.com
