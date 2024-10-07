@@ -20,7 +20,7 @@ I am a software engineer with a passion for developing innovative and scalable s
 <li>🛠 I’m working on the BookStore Inventory Management System (BIMS) project.</li>
 <li>👯 I’m looking to collaborate on open-source projects and global AIGC product launches.</li>
 
-###🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 Languages: Java, JavaScript, SQL
 Frameworks: Spring Boot, Hibernate, JUnit
 Databases: MySQL, PostgreSQL, MongoDB
